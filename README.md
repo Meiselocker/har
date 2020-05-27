@@ -1,5 +1,5 @@
 # har
-Algorithm for Human Activity Recognition using wearables
+##Algorithm for Human Activity Recognition using wearables
 
 This portfolio presents a new algorithm for human activity recognition (HAR) using wearables' data (accelerometers and gyroscopes).
 The folders "dailac" and "mhealth" contain public datasets with labelled wearables' signals collected while subjects were perfoming daily  activities such as walking, sitting, biking etc.

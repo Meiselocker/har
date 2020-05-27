@@ -12,5 +12,5 @@ Banos O, Garcia R, Holgado-Terriza JA, Damas M, Pomares H, Rojas I, et al. mHeal
 
 The files "har_dailac.ipynb" and "har_mhealth.ipynb" are commented Jupyter notebooks walking the reader through the script for processing of data reading, processing, models training and predicting. The Python code in the modeule draws upon the module "har_utils.py", containing customized function for HAR. 
 
-"Table3.xlsx" reports the full results for the tests run against the DaiLAc dataset. "Table5.xlsx" reports a comparison of the classification accuracy for DaiLAc with versus without gyroscopes.
+"TableA.xlsx" reports the full results for the tests run against the DaiLAc dataset. "TableB.xlsx" reports a comparison of the classification accuracy for DaiLAc with versus without gyroscopes.
 

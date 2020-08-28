@@ -18,7 +18,7 @@ See requirements for the full list of dependencies.
 
 
 ## Performance
-**har** was tested on the [*DaiLAc*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0075196) and [*mHealth*](https://link.springer.com/content/pdf/10.1007/978-3-319-13105-4.pdf) benchmark datasets with [great success]((https://www.mdpi.com/1424-8220/20/11/3090)). The datasets are stored in the repository, as well as the test scripts.
+**har** was tested on the [*DaiLAc*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0075196) and [*mHealth*](https://link.springer.com/content/pdf/10.1007/978-3-319-13105-4.pdf) benchmark datasets with [great success](https://www.mdpi.com/1424-8220/20/11/3090). The datasets are stored in the repository, as well as the test scripts.
 
 ## What this repository contains ##
 
